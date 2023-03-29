@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Hemanth, a robotics enthusiast with a degree and multiple years of experience in building IOT and robotics projects. My major intrests lies in working with navigation stack of the robots. I have worked on projects with indoor robots using ros2 and nav2. I am currently working on self driving cars and trying to build a flexible behaviour planner using reinforcement learning.
 
 <!--
 **Hemanth95/Hemanth95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
